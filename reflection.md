@@ -23,4 +23,5 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
-I had a lot of trouble with this assignment, I struggled to get the second test to pass. the test_parse_packaging wouldn't work for so long, even when I implemented the code that copilot suggested. I couldn't figure it out, so I eventually had to look at the solution and use the code from there to get it to pass. I saw that my mistake was in how I had been extracting packs and pack separately, and it wasn't outputting them correctly, causing the test to fail
+I had a lot of trouble with this assignment, I struggled to get the second test to pass. the test_parse_packaging wouldn't work for so long, even when I implemented the code that copilot suggested. I couldn't figure it out, so I eventually had to look at the solution and use the code from there to get it to pass. I saw that my mistake was in how I had been extracting packs and pack separately, and it wasn't outputting them correctly, causing the test to fail. 
+Resubmission Notice: I never recieved a grade on this assignment, so I don't know if I had to fix anything, so I really hope this is sufficient. All the tests pass right now but I haven't changed anything from what I already had, so I'm not sure why it wasn't graded. Maybe I didn't submit it correctly the first time.

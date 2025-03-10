@@ -25,8 +25,6 @@ def parse_packaging(packaging_data: str) -> list[dict]:
         quantity = int(item.split()[0])
         item = item.split()[1].strip()
         package.append({item: quantity})
-    
-    # get the last one
     item = data.split(" in ")[-1]
     quantity = int(item.split()[0])
     item = item.split()[1].strip()
